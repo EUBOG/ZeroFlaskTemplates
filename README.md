@@ -1,0 +1,2 @@
+# ZeroFlaskTemplates
+ZeroFlaskTemplates - учебный проект
